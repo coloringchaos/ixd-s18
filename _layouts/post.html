@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="mast">
+    <a class="nav nav--white" href="{{ site.baseurl }}/">
+      <i class="fa fa-lg fa-arrow-left"></i><span>Go Back</span>
+    </a>
+  </header>
+
+  <section class="post" itemprop="articleBody">
+
+    <div class="mast__container">
+      <!-- <span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span> -->
+      <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    </div>
+
+    {{ content }}
+  </section>
+
+
+</article>

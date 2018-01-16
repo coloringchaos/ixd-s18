@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<section class="previews">
+  	<div>
+	    {% for post in paginator.posts %}
+	      	<figure class="absolute-bg preview__img" style="background-image: url('{{ post.image }}');"></figure>
+	    {% endfor %}
+
+	    <div class="previews__container.new">
+	      	<h1 class="site-title"><a class="white" href="../index.html">{{ site.title }}</a></h1>
+          <ul class="tabs-new">
+            <!-- <a href="{{ site.baseurl }}/archive/"><li class="tabs-new__item">Posts</li></a> -->
+            <a href="../schedule"><li class="tabs-new__item">Schedule</li></a>
+            <a href="../syllabus"><li class="tabs-new__item">Syllabus</li></a>
+            <!-- <a href="../resources"><li class="tabs-new__item">Resources</li></a> -->
+            <a href="../students"><li class="tabs-new__item">Students</li></a>
+          </ul>
+
+	      	<div class="info">
+            <p>
+              ATLS 3519-050/051 <br>
+              T / R 9-10:50am in ENVD 234 <br>
+              <br>
+              Arielle Hein <br>
+              arielle.hein@colorado.edu <br>
+              Tues 2:30-4:30pm walk-in hours  <br> or <a href="https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I"><span class="officehrs">by appointment</span></a>, ATLS 231C
+            </p>
+          </div>
+	    </div>
+  	</div>
+
+	<section class="tab page">
+    	{{ content }}
+  	</section>
+
+</section>

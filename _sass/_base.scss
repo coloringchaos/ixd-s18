@@ -1,0 +1,149 @@
+/**
+ * Base Variables
+ */
+// $font-header: 'Space Mono', monospace;
+$font-header: 'Roboto', monospace;
+// $font-body: 'Inconsolata', monospace;
+// $font-body: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+$font-body: 'Open Sans', sans-serif;
+// $font-post: 'Lora', sans-serif;
+$font-post: 'Open Sans', sans-serif;
+
+$color-alpha: #9f8f68;
+$color-alpha--light: #f5f3ef;
+
+$color-black: #0a0a0a;
+$color-grey: #f8f9f9;
+$color-white: #fff;
+
+$mq-xs: 20em;
+$mq-sm: 30em;
+$mq-md: 54em;
+$mq-lg: 64em;
+$mq-xl: 76.5em;
+$mq-xxl: 114em;
+
+/**
+ * Base Settings/Overwrite Normalize
+ */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-body;
+  font-weight:300;
+  font-feature-settings: 'liga' 0;
+  font-size: 100%;
+  line-height: 1.6;
+
+  @media (min-width: $mq-xs) {
+    font-size: 102.5%;
+  }
+
+  @media (min-width: $mq-sm) {
+    font-size: 105%;
+  }
+
+  @media (min-width: $mq-md) {
+    font-size: 107.5%;
+  }
+
+  @media (min-width: $mq-lg) {
+    font-size: 110%;
+  }
+
+  @media (min-width: $mq-xl) {
+    font-size: 115%;
+  }
+
+  @media (min-width: $mq-xxl) {
+    font-size: 125%;
+  }
+}
+
+h1, h2 {
+  margin: 0;
+  letter-spacing: .03em;
+  font-family: $font-header;
+}
+
+h2{
+  padding: 1.2em 0 1em;
+
+}
+
+h1 {
+  $fontSize: 3em;
+  padding-bottom:1em;
+
+  @media (min-width: $mq-md) {
+    font-size: $fontSize;
+  }
+
+  @media (min-width: $mq-xl) {
+    font-size: $fontSize + 0.5em;
+    line-height:1.5em;
+  }
+}
+
+p {
+  margin: 0 0 1em;
+  // font-weight:100;
+  a{
+    border-bottom:1px solid black;
+  }
+  a:hover{
+    border-bottom: 1px solid  $color-alpha;
+  }
+}
+
+strong{
+  font-weight:600;
+}
+a {
+  color: $color-black;
+  text-decoration: none;
+
+
+  transition: color 0.3s ease-in-out;
+
+
+  &:hover,
+  &:active,
+  &:focus {
+
+    color: $color-alpha;
+
+  }
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+ol, ul {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+}
+
+/**
+ * Text Selection
+ */
+::selection {
+  color: $color-white;
+  background-color: $color-alpha;
+  text-shadow: none;
+}
+
+.absolute-bg{
+  background:linear-gradient(to bottom, #104E8C , #166dc3);
+}
