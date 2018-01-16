@@ -1,23 +1,23 @@
 # Site settings
-email: 
-baseurl: 
+email:
+baseurl: "/ixd-s18"
 paginate: 25
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics:
 
 # SEO settings
 title: UI & IxD
-description: 
+description:
 url: ""
-twitter_username: 
-default_img: 
+twitter_username:
+default_img:
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name:
+profile_img:
+profile:
 social:
-  github: 
+  github:
 
 # Build settings
 include: ["_categories"]
