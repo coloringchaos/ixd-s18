@@ -26,10 +26,7 @@ course overview & expectations, introduction to UI & IxD, <span class="link">[do
 
 design research, case studies, experience audit, <span class="link">[intro survey]()</span>
 
-<div class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Set up your blog, write a post about what you hope to get out of this class, be specific! </div>
-
-<div class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Submit your blog link here. </div>
-
+<div class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Due: Set up your blog, write a post about what you hope to get out of this class, be specific! Submit your blog link [here](Submit your blog link here.). </div>
 
 <hr>
 
