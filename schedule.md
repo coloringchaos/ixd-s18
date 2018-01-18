@@ -61,7 +61,7 @@ design research
 
 audit presentations
 
-<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Experience Audit](ux-audit)</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Experience Audit](/ixd-s18/ux-audit)</span>
 
 <br>
 
