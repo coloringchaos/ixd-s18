@@ -20,35 +20,48 @@ This page has a breakdown of the general content that we will cover in each clas
 course overview & expectations, introduction to UI & IxD, <span class="link">[documentation](/ixd-s18/blogs)</span>
 
 
+<span class="due">*For Next Class:*</span>
+
++ Set up your blog and write a post about what you hope to get out of this class, be specific!
++ Submit your blog link [here](https://docs.google.com/forms/d/e/1FAIpQLSdum-gMdWWfRJwcgwPIeqnp289lQyf0U7ZU5RmUE3Mmp1MfIw/viewform?usp=sf_link)
+
+
 <br>
 
 <span class="ass">Thursday, January 18th</span> <br>
 
-design research, case studies, experience audit, <span class="link">[intro survey]()</span>
+design research, mental models, experience audit, modeling activity 
 
-<div class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Due: Set up your blog, write a post about what you hope to get out of this class, be specific! Submit your blog link <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdum-gMdWWfRJwcgwPIeqnp289lQyf0U7ZU5RmUE3Mmp1MfIw/viewform?usp=sf_link">here</a>.</div>
+<!-- <span class="link">[intro survey]()</span> -->
+
+<span class="due">*For Next Class:*</span>
+
++ Read Chapter 7 of Design for the Real World - *available through Canvas*
++ Read [Logic vs Usage](http://www.jnd.org/dn.mss/logic_versus_usage_the_case_for_activity-centered_design.html)
++ Read [Human-Centered Design Considered Harmful](http://www.jnd.org/dn.mss/human-centered.html)
+
 
 <hr>
 
 ## Week 2
 <span class="ass">Tuesday, January 23rd</span> <br>
 
-goal directed research, interviews & observations, qualitative & quantitative approaches
+qualitative vs quantitative approaches, interviews & observations
 
 <br>
 
 <span class="ass">Thursday, January 25th</span> <br>
 
-audit presentations
-
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Due:</span> <span class="ass">[Experience Audit]()</span>
+design research
 
 <hr>
 
 ## Week 3
 <span class="ass">Tuesday, January 30th</span> <br>
 
-design research, mental models, task analysis
+audit presentations
+
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Experience Audit](ux-audit)</span>
 
 <br>
 

@@ -90,6 +90,18 @@
  */
 .page{
   padding:3em;
+
+  ul{
+    padding-left: 3em;
+
+    list-style-type: circle;
+  }
+  li{
+    padding-bottom:3px;
+  }
+  a{
+    border-bottom:1px solid black;
+  }
 }
 
 /**
@@ -430,6 +442,7 @@
   h1,
   h2 {
     line-height: 1.2;
+    margin-top:1.2em;
   }
 
   p:first-child {
@@ -596,7 +609,7 @@
 
 
 .due{
-  padding-left:30px;
+  padding-left:29px;
 
 }
 .ass{
