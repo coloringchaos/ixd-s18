@@ -30,7 +30,7 @@ course overview & expectations, introduction to UI & IxD, <span class="link">[do
 
 <span class="ass">Thursday, January 18th</span> <br>
 
-design research, mental models, experience audit, modeling activity 
+design research, mental models, experience audit, modeling activity
 
 <!-- <span class="link">[intro survey]()</span> -->
 
@@ -91,7 +91,7 @@ Media Archeology Lab Visit
 
 Presentations
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Due:</span> <span class="ass">[MAL Interfaces]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass">[MAL Interfaces]()</span>
 
 <br>
 
@@ -112,7 +112,7 @@ Personas, Understanding User Goals
 
 Understanding Users, Storymapping, Other Design Models
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Due:</span> <span class="ass">[User Study]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [User Study]()</span>
 
 <hr>
 
@@ -140,7 +140,8 @@ Setting Design Requirements
 
 Presentations, Interaction Exercise
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Due:</span> <span class="ass">[Interaction Flow]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Interaction Flow]()</span>
+
 
 
 <hr>
@@ -169,7 +170,7 @@ Mockups, User Testing
 
 Validation & Testing
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Due:</span> <span class="ass">[Mockups]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Mockups]()</span>
 
 <hr>
 
@@ -203,7 +204,7 @@ Evaluating User Experiences, Case Studies
 
 Evaluation, Case Studies
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Due:</span> <span class="ass">[Manifesto]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Manifesto]()</span>
 
 <hr>
 
@@ -245,4 +246,4 @@ Process Critique, Studio Time
 
 ### Finals Week
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>Due:</span> <span class="ass">[Final Project]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Final Project]()</span>
