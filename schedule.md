@@ -168,7 +168,7 @@ Mockups, User Testing
 
 <span class="ass">Tuesday, March 22nd</span> <br>
 
-Validation & Testing
+Validation & Testing, Heuristic Evaluation
 
 <i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Mockups]()</span>
 
