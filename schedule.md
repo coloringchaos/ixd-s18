@@ -80,7 +80,7 @@ Media Archeology Lab Visit
 
 <br>
 
-<span class="ass">Thursday, February 15th</span> <br>
+<span class="ass">Thursday, February 8th</span> <br>
 
 Media Archeology Lab Visit
 
