@@ -32,8 +32,6 @@ course overview & expectations, introduction to UI & IxD, <span class="link">[do
 
 design research, mental models, experience audit, modeling activity
 
-<!-- <span class="link">[intro survey]()</span> -->
-
 <span class="due">*For Next Class:*</span>
 
 + Read Chapter 7 of Design for the Real World - *available through Canvas*
@@ -48,11 +46,16 @@ design research, mental models, experience audit, modeling activity
 
 qualitative vs quantitative approaches, interviews & observations
 
+
 <br>
 
 <span class="ass">Thursday, January 25th</span> <br>
 
-design research
+interviews, contextual inquiry, task analysis, case studies
+
+<span class="due">*For Next Class:*</span>
+
++ Complete your [Experience Audit](/ixd-s18/ux-audit)
 
 <hr>
 
@@ -62,6 +65,10 @@ design research
 audit presentations
 
 <i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Experience Audit](/ixd-s18/ux-audit)</span>
+
+<span class="due">*For Next Class:*</span>
+
++ Read Introduction & Chapter 1 of Designing Interactions - *available through Canvas*
 
 <br>
 
