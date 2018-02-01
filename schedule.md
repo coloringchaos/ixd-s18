@@ -7,12 +7,6 @@ permalink: /schedule/
 
 # Schedule
 
-<!-- <br>
-This page has a breakdown of the general content that we will cover in each class. Major project due dates are listed on this page, as are assignments, critique dates and links to notes. This schedule is subject to change.
-
-
-<hr> -->
-
 
 ## Week 1
 <span class="ass">Tuesday, January 16th</span> <br>
@@ -83,41 +77,42 @@ historical contexts, process review
 
 <span class="ass">Tuesday, February 6th</span> <br>
 
-Media Archeology Lab Visit
+Media Archeology Lab Visit - Group 1
 
 <br>
 
 <span class="ass">Thursday, February 8th</span> <br>
 
-Media Archeology Lab Visit
+Media Archeology Lab Visit - Group 2
 
 <hr>
 
 ## Week 5
 <span class="ass">Tuesday, February 13th</span> <br>
 
-Presentations
-
-<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass">[MAL Interfaces]()</span>
+Presentations - Group 1
 
 <br>
 
 <span class="ass">Thursday, February 15th</span> <br>
 
-Modeling Users, User Studies
+Presentations - Group 2
+
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass">[Media Archeology Interaction Audit](/ixd-s18/mal)</span>
+
 
 <hr>
 
 ## Week 6
 <span class="ass">Tuesday, February 20th</span> <br>
 
-Personas, Understanding User Goals
+Modeling Users, User Studies, Understanding User Goals
 
 <br>
 
 <span class="ass">Thursday, February 22nd</span> <br>
 
-Understanding Users, Storymapping, Other Design Models
+Personas, Storymapping, Other Design Models
 
 <i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [User Study]()</span>
 
