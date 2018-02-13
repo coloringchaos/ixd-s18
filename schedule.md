@@ -106,6 +106,7 @@ Presentations - Group 2
 ## Week 6
 <span class="ass">Tuesday, February 20th</span> <br>
 
+**Guest Lecture**<br>
 Modeling Users, User Studies, Understanding User Goals
 
 <br>
@@ -127,6 +128,7 @@ Scenarios and Design Requirements, Persona-based Scenarios
 
 <span class="ass">Thursday, March 1st</span> <br>
 
+Guest Lecture<br>
 Narrative as a Design Tool, Storytelling
 
 <hr>
