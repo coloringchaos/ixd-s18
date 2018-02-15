@@ -128,7 +128,6 @@ Scenarios and Design Requirements, Persona-based Scenarios
 
 <span class="ass">Thursday, March 1st</span> <br>
 
-Guest Lecture<br>
 Narrative as a Design Tool, Storytelling
 
 <hr>
@@ -136,16 +135,13 @@ Narrative as a Design Tool, Storytelling
 ## Week 8
 <span class="ass">Tuesday, March 6th</span> <br>
 
-Setting Design Requirements
+Setting Design Requirements, Storyboarding, Defining Requirements
 
 <br>
 
 <span class="ass">Tuesday, March 8th</span> <br>
 
-Presentations, Interaction Exercise
-
-<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Interaction Flow]()</span>
-
+**Guest Lecture**<br>
 
 
 <hr>
@@ -153,7 +149,10 @@ Presentations, Interaction Exercise
 ## Week 9
 <span class="ass">Tuesday, March 13th</span> <br>
 
-Storyboarding, Defining Requirements
+Presentations, Interaction Exercise
+
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Interaction Flow]()</span>
+
 
 <br>
 
