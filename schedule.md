@@ -104,18 +104,25 @@ Presentations - Group 2
 <hr>
 
 ## Week 6
-<span class="ass">Tuesday, February 20th</span> <br>
+<span class="ass">Tuesday, February 20th</span> - *NO CLASS*
 
-**Guest Lecture**<br>
-Modeling Users, User Studies, Understanding User Goals
+<!-- **Guest Lecture**<br> -->
+
+<!-- Modeling Users, User Studies, Understanding User Goals -->
+
+<span class="due">*For Next Class:*</span>
+
++ Read Chapters 1-5 in [Don't Make Me Think]() - *available through Canvas*
+<!-- + Complete [Counter](/ixd-s18/counter) Mini-Project -->
+
 
 <br>
 
 <span class="ass">Thursday, February 22nd</span> <br>
 
-Personas, Storymapping, Other Design Models
+Personas, Storymapping, Modeling Users
 
-<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [User Study]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Counter](/ixd-s18/counter)</span>
 
 <hr>
 
