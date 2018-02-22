@@ -106,14 +106,9 @@ Presentations - Group 2
 ## Week 6
 <span class="ass">Tuesday, February 20th</span> - *NO CLASS*
 
-<!-- **Guest Lecture**<br> -->
-
-<!-- Modeling Users, User Studies, Understanding User Goals -->
-
 <span class="due">*For Next Class:*</span>
 
-+ Read Chapters 1-5 in [Don't Make Me Think]() - *available through Canvas*
-<!-- + Complete [Counter](/ixd-s18/counter) Mini-Project -->
++ Read Chapters 1-5 of Don't Make Me Think - *available through Canvas*
 
 
 <br>
@@ -124,25 +119,34 @@ Personas, Storymapping, Modeling Users
 
 <i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Counter](/ixd-s18/counter)</span>
 
+<span class="due">*For Next Class:*</span>
+
++ Watch [UX Research Methods: Card Sorting](https://www.lynda.com/User-Experience-tutorials/Welcome/546776/609930-4.html)
++ Gather drawing supplies to bring to class on 2/27
+
 <hr>
 
 ## Week 7
 <span class="ass">Tuesday, February 27th</span><br>
 
-Scenarios and Design Requirements, Persona-based Scenarios
+Narrative as a Design Tool, Storyboarding, Persona-based Scenarios
+
+<span class="due">*For Next Class:*</span>
+
++ Watch [Paper Prototyping](https://www.lynda.com/User-Experience-tutorials/UX-Design-Techniques-Paper-Prototyping/534422-2.html)
 
 <br>
 
 <span class="ass">Thursday, March 1st</span> <br>
 
-Narrative as a Design Tool, Storytelling
+Storymaps, Paper Prototyping
+
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Personas](/ixd-s18/personas)</span>
 
 <hr>
 
 ## Week 8
 <span class="ass">Tuesday, March 6th</span> <br>
-
-Setting Design Requirements, Storyboarding, Defining Requirements
 
 <br>
 

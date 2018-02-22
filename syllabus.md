@@ -47,10 +47,10 @@ If you turn in all your work on time (and if it is satisfactorily completed), an
 *Points will be allocated based on the following distribution pattern:*
 
 |---------------|--------:|
-| Experience Audit 		                 |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts |
-| Media Archeology Lab Study					 |&nbsp;&nbsp;&nbsp;&nbsp;| 150 pts |
-| Counter (Physical UX)  				       |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;50 pts |
-| Personas and Storytelling						 |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts |
+| [Experience Audit](/ixd-s18/ux-audit)		                 |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts |
+| [Media Archeology Lab Study](/ixd-s18/mal)					 |&nbsp;&nbsp;&nbsp;&nbsp;| 150 pts |
+| [Counter](/ixd-s18/counter)  				       |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;50 pts |
+| [Personas](/ixd-s18/personas)              						 |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts |
 | Interaction Flow					           |&nbsp;&nbsp;&nbsp;&nbsp;| 125 pts |
 | Mockups             	               |&nbsp;&nbsp;&nbsp;&nbsp;| 125 pts |
 | Manifesto             	             |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts |
