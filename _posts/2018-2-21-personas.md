@@ -8,7 +8,7 @@ permalink: /personas/
 
 ---
 
-Think about three different people you care about and identify an idea for each one for a **meaningful interactive experience or application**. Your ideas can be either physical or screen-based, in either case they should include a significant digital element. Construct an elegantly designed one-page persona graphic based on that person (you should not identify the *actual* person).
+Think about three different people you care about and identify an idea for each one for a **meaningful interactive experience or application**. Your ideas can be either physical or screen-based, in either case they should include a significant digital element. Eventually you will build out a concept for a mobile app related to your persona, but to start thinking of ideas you can keep it open in terms of what this interaction is. Construct an elegantly designed one-page persona graphic based on that person (you should not identify the *actual* person).
 
 Base your ideas on your insights into the person you are designing for. Do they like to cook, procrastinate, exercise consistently or spend time with family? What are their work and play habits? What frustrates them on a consistent basis or could help save them time or energy? Think about the unique behaviors of each person and identify an idea that could improve, enrich or enhance their life. While you are designing for a particular persona, consider others who might benefit from the use case for your idea.
 

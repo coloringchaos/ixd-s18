@@ -139,7 +139,7 @@ Narrative as a Design Tool, Storyboarding, Persona-based Scenarios
 
 <span class="ass">Thursday, March 1st</span> <br>
 
-Storymaps, Paper Prototyping
+Information Architecture
 
 <i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Personas](/ixd-s18/personas)</span>
 
@@ -148,9 +148,11 @@ Storymaps, Paper Prototyping
 ## Week 8
 <span class="ass">Tuesday, March 6th</span> <br>
 
+Storymaps, Paper Prototyping
+
 <br>
 
-<span class="ass">Tuesday, March 8th</span> <br>
+<span class="ass">Thursday, March 8th</span> <br>
 
 **Guest Lecture**<br>
 
@@ -167,7 +169,7 @@ Presentations, Interaction Exercise
 
 <br>
 
-<span class="ass">Tuesday, March 15th</span> <br>
+<span class="ass">Thursday, March 15th</span> <br>
 
 Creating a Design Framework, Lo-Fi Mockups, Design Studies
 
@@ -180,7 +182,7 @@ Mockups, User Testing
 
 <br>
 
-<span class="ass">Tuesday, March 22nd</span> <br>
+<span class="ass">Thursday, March 22nd</span> <br>
 
 Validation & Testing, Heuristic Evaluation
 
@@ -201,7 +203,7 @@ Developing Assets, High-Fidelity Mockups
 
 <br>
 
-<span class="ass">Tuesday, April 5th</span> <br>
+<span class="ass">Thursday, April 5th</span> <br>
 
 High Fidelity Mockups
 
@@ -214,7 +216,7 @@ Evaluating User Experiences, Case Studies
 
 <br>
 
-<span class="ass">Tuesday, April 12th</span> <br>
+<span class="ass">Thursday, April 12th</span> <br>
 
 Evaluation, Case Studies
 
@@ -229,7 +231,7 @@ Field Study
 
 <br>
 
-<span class="ass">Tuesday, April 19th</span> <br>
+<span class="ass">Thursday, April 19th</span> <br>
 
 Field Study
 
@@ -252,7 +254,7 @@ Process Critique, Studio Time
 
 <br>
 
-<span class="ass">Tuesday, May 3rd</span> <br>
+<span class="ass">Thursday, May 3rd</span> <br>
 
 Process Critique, Studio Time
 
