@@ -148,7 +148,7 @@ Information Architecture
 ## Week 8
 <span class="ass">Tuesday, March 6th</span> <br>
 
-Storymaps, Paper Prototyping
+Paper Prototyping, Storymapping, Narrative
 
 <br>
 
@@ -156,22 +156,23 @@ Storymaps, Paper Prototyping
 
 **Guest Lecture**<br>
 
+<span class="due">*For Next Class:*</span>
+
++ Bring Paper Protoypes of your app to class. Be prepared for user testing.
+
 
 <hr>
 
 ## Week 9
 <span class="ass">Tuesday, March 13th</span> <br>
 
-Presentations, Interaction Exercise
-
-<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Interaction Flow]()</span>
-
+User Testing, Wireframing, Low-Fidelity Mockups
 
 <br>
 
 <span class="ass">Thursday, March 15th</span> <br>
 
-Creating a Design Framework, Lo-Fi Mockups, Design Studies
+Lo-Fi Mockups, Design Studies
 
 <hr>
 
@@ -186,7 +187,7 @@ Mockups, User Testing
 
 Validation & Testing, Heuristic Evaluation
 
-<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Mockups]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Mobile Experience](/ixd-s18/mobile-ux)</span>
 
 <hr>
 

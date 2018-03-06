@@ -51,11 +51,12 @@ If you turn in all your work on time (and if it is satisfactorily completed), an
 | [Media Archeology Lab Study](/ixd-s18/mal)					 |&nbsp;&nbsp;&nbsp;&nbsp;| 150 pts |
 | [Counter](/ixd-s18/counter)  				       |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;50 pts |
 | [Personas](/ixd-s18/personas)              						 |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts |
-| Interaction Flow					           |&nbsp;&nbsp;&nbsp;&nbsp;| 125 pts |
-| Mockups             	               |&nbsp;&nbsp;&nbsp;&nbsp;| 125 pts |
-| Manifesto             	             |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts |
+| [Mobile UX](/ixd-s18/mobile-ux)					           |&nbsp;&nbsp;&nbsp;&nbsp;| 200 pts |
+| Mobile UI Mockups             	               |&nbsp;&nbsp;&nbsp;&nbsp;| 125 pts |
 | Final Project             	         |&nbsp;&nbsp;&nbsp;&nbsp;| 325 pts |
 {:.mbtablestyle}
+
+<!-- | Manifesto             	             |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts | -->
 
 <br>
 
