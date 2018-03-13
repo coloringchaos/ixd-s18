@@ -21,7 +21,7 @@ You will be evaluated on a set of deliverable that detail the research and devel
 
 **Paper Prototypes:**<br>Prototype your full mobile experience using paper. Create a paper mockup of every screen in your app using paper, stick notes, notecards, etc. For more detail about how to do this, watch [Paper Prototyping](https://www.lynda.com/User-Experience-tutorials/UX-Design-Techniques-Paper-Prototyping/534422-2.html).
 
-**Wireframes / Low-Fidelity Mockups**:<br>Develop digital wireframe mockups of every screen of your experience.
+**Wireframe Prototype**:<br>Develop an interactive wireframe prototype of your mobile app. Generate wireframes in whatever software you prefer, then develop an interactive prototype of the whole experience usign Adobe XD or InVision. You must be able to share the interactive version of your mockup online. 
 
 ## Blog Post
 
