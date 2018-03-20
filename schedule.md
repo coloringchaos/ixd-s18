@@ -172,7 +172,7 @@ User Testing, Wireframing, Low-Fidelity Mockups
 
 <span class="ass">Thursday, March 15th</span> <br>
 
-Lo-Fi Mockups, Design Studies
+Lo-Fi Mockups, Adobe XD
 
 <hr>
 
