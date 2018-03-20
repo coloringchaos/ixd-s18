@@ -23,7 +23,7 @@ You will be evaluated on a set of deliverable that detail the research and devel
 
 **Wireframe Prototype**:<br>Develop a high-fidelity interactive wireframe prototype of your mobile app. A high fidelity wireframe consists of actual content (no lorem ipsum) and includes accurate content dimensions, specific typeface choices, button styles, and icons. Images are not required, although if they are important given your content, you might choose to include a few. Similarly, a black and white color palette is sufficient, although you may choose to incorporate some color if you feel it helps to communicate the concept. ***Overall, your focus should be on the interaction and user experience, use the interface to communicate that in a straightforward way.***
 
-Generate wireframes in whatever software you prefer, then create an interactive prototype of the whole experience using either Adobe XD or InVision. You must be able to share the interactive version of your mockup online.
+Generate wireframes in whatever software you prefer, then create an interactive prototype of the whole experience using either Adobe XD or InVision. ***You must be able to share the interactive prototype online.***
 
 ## Blog Post
 
