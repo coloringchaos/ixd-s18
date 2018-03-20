@@ -27,7 +27,7 @@ Generate wireframes in whatever software you prefer, then create an interactive 
 
 ## Blog Post
 
-You must format your blog post in the order outlined above, starting with a project description and ending with your low-fidelity mockups. Include a short description and graphics for each step of your process.
+You must format your blog post in the order outlined above, starting with a project description and ending with your interactive high-fidelity prototype. Include a short description and graphics for each step of your process.
 
 *Image and graphics absolutely must be high quality.*
 
