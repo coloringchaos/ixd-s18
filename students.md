@@ -38,4 +38,5 @@ permalink: /students/
 [Julian Torres](https://tamatlasprojects.wordpress.com/category/interface-design/) <br>
 [Emma Wu](https://interfaceandinteractiondesign.wordpress.com/) <br>
 [Mason Fibkinsui](https://masonfibkinsui.wordpress.com/)<br>
-[Hudson Hohimer](https://interactivedesignonline.wordpress.com/)
+[Hudson Hohimer](https://interactivedesignonline.wordpress.com/)<br>
+[Joe Ryan](https://samuraiversace.wordpress.com/)
