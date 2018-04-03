@@ -200,7 +200,7 @@ Validation & Testing, Heuristic Evaluation
 ## Week 12
 <span class="ass">Tuesday, April 3rd</span> <br>
 
-Developing Assets, High-Fidelity Mockups
+UI Patterns, High-Fidelity Mockups
 
 <br>
 
@@ -213,13 +213,13 @@ High Fidelity Mockups
 ## Week 13
 <span class="ass">Tuesday, April 10th</span> <br>
 
-Evaluating User Experiences, Case Studies
+Guest Lecture
 
 <br>
 
 <span class="ass">Thursday, April 12th</span> <br>
 
-Evaluation, Case Studies
+Evaluating User Experiences
 
 <i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Concept Mockup](/ixd-s18/concept-mockup)</span>
 
