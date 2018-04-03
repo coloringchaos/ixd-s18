@@ -221,7 +221,7 @@ Evaluating User Experiences, Case Studies
 
 Evaluation, Case Studies
 
-<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Manifesto]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Concept Mockup](/ixd-s18/concept-mockup)</span>
 
 <hr>
 
