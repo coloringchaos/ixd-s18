@@ -206,7 +206,7 @@ UI Patterns, High-Fidelity Mockups
 
 <span class="ass">Thursday, April 5th</span> <br>
 
-Visual Language, High Fidelity Mockups
+Visual Language, High Fidelity Mockups, [Survey](https://docs.google.com/forms/d/e/1FAIpQLSc_mfe2zlADRTss7Yhoat3cTOhYdR_L1S5biok37aF5vUltMw/viewform?usp=sf_link)
 
 <hr>
 
