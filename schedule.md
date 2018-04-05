@@ -206,7 +206,7 @@ UI Patterns, High-Fidelity Mockups
 
 <span class="ass">Thursday, April 5th</span> <br>
 
-High Fidelity Mockups
+Visual Language, High Fidelity Mockups
 
 <hr>
 
