@@ -228,36 +228,38 @@ Evaluating User Experiences
 ## Week 14
 <span class="ass">Tuesday, April 17th</span> <br>
 
-Field Study
+Non-traditional Interfaces
 
 <br>
 
 <span class="ass">Thursday, April 19th</span> <br>
 
-Field Study
+Non-Traditional Interfaces
 
 <hr>
 
 ## Week 15
 <span class="ass">Tuesday, April 24th</span> <br>
 
-Process Critique
+Non-Traditional Interfaces
 
 <br>
 
 <i>Thursday, April 26th - NO CLASS</i><br>
 
+Studio Day
+
 
 ## Week 16
 <span class="ass">Tuesday, May 1st</span> <br>
 
-Process Critique, Studio Time
+Process Review
 
 <br>
 
 <span class="ass">Thursday, May 3rd</span> <br>
 
-Process Critique, Studio Time
+Final Project Pre-Critique
 
 <hr>
 
