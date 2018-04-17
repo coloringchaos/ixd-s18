@@ -238,7 +238,12 @@ Non-traditional Interfaces
 
 <span class="ass">Thursday, April 19th</span> <br>
 
-Reading Discussion, Non-Traditional Interfaces
+Reading Discussion, Non-Traditional Interfaces, Experience Narratives
+
+<span class="due">*For Next Class:*</span>
+
++ Read Speculative Design - *available through Canvas*
+
 
 <hr>
 
