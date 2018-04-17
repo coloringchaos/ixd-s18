@@ -230,18 +230,22 @@ Evaluating User Experiences
 
 Non-traditional Interfaces
 
+<span class="due">*For Next Class:*</span>
+
++ Read Multisensory & Multimedia - *available through Canvas*
+
 <br>
 
 <span class="ass">Thursday, April 19th</span> <br>
 
-Non-Traditional Interfaces
+Reading Discussion, Non-Traditional Interfaces
 
 <hr>
 
 ## Week 15
 <span class="ass">Tuesday, April 24th</span> <br>
 
-Non-Traditional Interfaces
+Speculative Design
 
 <br>
 
