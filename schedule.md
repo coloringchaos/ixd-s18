@@ -219,7 +219,7 @@ Guest Lecture
 
 <span class="ass">Thursday, April 12th</span> <br>
 
-Evaluating User Experiences
+Critique
 
 <i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Concept Mockup](/ixd-s18/concept-mockup)</span>
 
@@ -228,7 +228,7 @@ Evaluating User Experiences
 ## Week 14
 <span class="ass">Tuesday, April 17th</span> <br>
 
-Non-traditional Interfaces
+Non-traditional Interfaces, Installations
 
 <span class="due">*For Next Class:*</span>
 
@@ -238,11 +238,11 @@ Non-traditional Interfaces
 
 <span class="ass">Thursday, April 19th</span> <br>
 
-Reading Discussion, Non-Traditional Interfaces, Experience Narratives
+Reading Discussion, Experience Design
 
 <span class="due">*For Next Class:*</span>
 
-+ Read Speculative Design - *available through Canvas*
++ Read Speculative Everything - *available through Canvas*
 
 
 <hr>
@@ -250,7 +250,7 @@ Reading Discussion, Non-Traditional Interfaces, Experience Narratives
 ## Week 15
 <span class="ass">Tuesday, April 24th</span> <br>
 
-Speculative Design
+Speculative Design, Project Discussion
 
 <br>
 
