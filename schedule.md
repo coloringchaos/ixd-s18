@@ -268,10 +268,10 @@ Process Review
 
 <span class="ass">Thursday, May 3rd</span> <br>
 
-Final Project Pre-Critique
+Final Project Critique
 
 <hr>
 
 ### Finals Week
 
-<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Final Project]()</span>
+<i class="fa fa-star-o" aria-hidden="true"></i>Due: <span class="ass"> [Final Project](/ixd-s18/non-traditional-interface/)</span>
