@@ -38,6 +38,6 @@ In your blog post, include the media from your presentation in the body of the p
 
 ## Deliverables
 
-We will have in-class project presentations and critique on Thursday, May 2nd.
+We will have in-class project presentations and critique on Thursday, May 3rd.
 
 ***Final project is due end of day Sunday, May 6th***
