@@ -8,7 +8,7 @@ permalink: /non-traditional-interface/
 
 ---
 
-Design a concept for a non-traditional interface or interactive experience. Create something that engages users in physical space, and focus on how the concept integrates into the environment. The concept does not need to be contingent on user input, but it should be dynamic in that it changes over time. You might choose to make something useful, informational, artistic, collaborative, experiential, etc. Be creative and push yourself to think outside of the box!
+Design a concept for a non-traditional interface or interactive experience. Create something that engages users in physical space, and focus on how the concept integrates into the environment. The concept does not need to be contingent on user input, but it should be dynamic in that it changes over time. You might choose to make something useful, informational, artistic, collaborative, experiential, etc. Your concept can be as realistic or fantastical as you want, either way you must make it feel real. Be creative and push yourself to think outside of the box!
 
 I suggest working in groups of 2 or 3.
 
