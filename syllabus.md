@@ -52,8 +52,8 @@ If you turn in all your work on time (and if it is satisfactorily completed), an
 | [Counter](/ixd-s18/counter)  				       |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;50 pts |
 | [Personas](/ixd-s18/personas)              						 |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts |
 | [Mobile UX](/ixd-s18/mobile-ux)					           |&nbsp;&nbsp;&nbsp;&nbsp;| 200 pts |
-| [Concept Mockups](/ixd-s18/concept-mockup)             	               |&nbsp;&nbsp;&nbsp;&nbsp;| 150 pts |
-| Final Project             	         |&nbsp;&nbsp;&nbsp;&nbsp;| 300 pts |
+| [Concept Mockups](/ixd-s18/concept-mockup)             	               |&nbsp;&nbsp;&nbsp;&nbsp;| 200 pts |
+| Final Project             	         |&nbsp;&nbsp;&nbsp;&nbsp;| 250 pts |
 {:.mbtablestyle}
 
 <!-- | Manifesto             	             |&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;75 pts | -->
